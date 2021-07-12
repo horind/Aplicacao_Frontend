@@ -1,3 +1,3 @@
 # Single-page application
 
-Aplicação de FrontEnd com crud desenvolvido com Vue JS e primefaces.
+FrontEnd da Aplicação com crud desenvolvido com Vue JS e primefaces.
